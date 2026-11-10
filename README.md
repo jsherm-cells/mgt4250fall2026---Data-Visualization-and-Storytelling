@@ -6,6 +6,10 @@ This repository contains course materials and a small Streamlit-based data visua
 
 The repository includes a sample Superstore dataset and a simple Python app that can be used to explore data visually with `streamlit`, `pandas`, and `plotly`.
 
+## Live app
+
+Try the app here: [MGT4250 Data Visualization and Storytelling](https://mgt4250fall2026---data-visualization-and-storytelling-ssedwwcb.streamlit.app/)
+
 ## Repository contents
 
 - `class17.py` — sample Streamlit app
